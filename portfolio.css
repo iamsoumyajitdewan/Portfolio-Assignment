@@ -1,0 +1,84 @@
+body{
+    background-color: black;
+}
+
+#navbar{
+    background-color: black;
+    text-align: center;
+}
+#navbar a{
+    color: wheat;
+    text-decoration: none;
+    padding: 30px;
+    font-size: 16px;
+    font-family: cursive;
+    
+}
+
+#navbar a:hover{
+    color: blueviolet;
+}
+
+#home{
+    background-color: lightblue;
+    text-align: center;
+    font-size: 17px;
+    padding-top: 10px;
+}
+#home .ph {
+    border-radius: 20%;
+    border: 3px solid;
+}
+#home a{
+    padding: 15px;
+}
+
+#home .f{
+    border-radius: 40%;
+}
+
+#skills{
+    padding-top: 1px;
+    background-color: lightblue;
+    text-align: center;
+}
+#academics{
+    padding-top: 1px;
+    background-color: lightblue
+}
+#academics h1{
+    text-align: center;
+}
+
+#internships{
+    padding-top: 1px;
+    background-color: lightblue
+}
+#internships h1 {
+    text-align: center;
+}
+
+#projects{
+    padding-top: 1px;
+    background-color: lightblue;
+}
+#projects h1 {
+    text-align: center;
+}
+
+#contacts{
+    padding-top: 1px;
+    background-color: lightblue;
+    text-align: center;
+}
+#contacts h1 {
+    text-align: center;
+}
+#contacts .btn{
+    background-color: darkblue;
+    color: white;
+}
+#contacts .btn:hover{
+    background-color: bisque;
+    color: black;
+}
